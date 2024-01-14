@@ -91,7 +91,6 @@ function displayHourlyForecast(hourlyData) {
         `;
         hourlyForecastDiv.innerHTML += hourlyItemHtml;
     })
-
 }
 
 function showImage () {
